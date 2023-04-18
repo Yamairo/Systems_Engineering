@@ -6,9 +6,9 @@ Dit is een github-repository met aantekeningen en practica voor het vak Systems 
 
 De repository bevat de volgende bestanden en mappen:
 
-- [Aantekeningen](C:\Systems Engeneering\Aantekeningen): een map met aantekeningen van de colleges en de literatuur. De aantekeningen zijn geschreven in Markdown-formaat en kunnen worden bekeken met Obsidian of een andere Markdown-editor of -viewer.
-- [Practica](C:\Systems Engeneering\Practica): een map met uitwerkingen van de practica-opdrachten. De uitwerkingen zijn geschreven in Markdown- of C++-formaat en bevatten code, commentaar en resultaten.
-- `README.practicamd`: dit bestand met een korte beschrijving van de repository en de inhoud.
+- `Aantekeningen`: een map met aantekeningen van de colleges en de literatuur. De aantekeningen zijn geschreven in Markdown-formaat en kunnen worden bekeken met Obsidian of een andere Markdown-editor of -viewer.
+- `Practica`: een map met uitwerkingen van de practica-opdrachten. De uitwerkingen zijn geschreven in Markdown- of C++-formaat en bevatten code, commentaar en resultaten.
+- `README.md`: dit bestand met een korte beschrijving van de repository en de inhoud.
 
 ## Gebruik
 
