@@ -1,4 +1,4 @@
-P# Systems Engineering
+# Systems Engineering
 
 Dit is een github-repository met aantekeningen en practica voor het vak Systems Engineering aan de Haagse Hogeschool. Systems Engineering is een vakgebied dat zich richt op het ontwerpen, analyseren en optimaliseren van complexe systemen. Het vak behandelt onderwerpen zoals systeemtheorie, systeemmodellering, systeemarchitectuur, systeemintegratie, systeemtesten en systeemoptimalisatie.
 
