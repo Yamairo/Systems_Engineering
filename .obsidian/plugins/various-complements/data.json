@@ -1,0 +1,1043 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "32768": {
+      "32768": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680524117338
+        }
+      }
+    },
+    "VLANs": {
+      "VLANs": {
+        "currentFile": {
+          "count": 10,
+          "lastUpdated": 1680540985566
+        }
+      }
+    },
+    "style": {
+      "style": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1680540790720
+        }
+      }
+    },
+    "MAC-adres": {
+      "MAC-adres": {
+        "currentFile": {
+          "count": 9,
+          "lastUpdated": 1680545767519
+        }
+      }
+    },
+    "root-path-cost": {
+      "root-path-cost": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1680525482826
+        }
+      }
+    },
+    "designated": {
+      "designated": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1680525926197
+        }
+      }
+    },
+    "machtsverheffen": {
+      "machtsverheffen": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679551345729
+        }
+      }
+    },
+    "Opdracht": {
+      "Opdracht": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1679551778666
+        }
+      }
+    },
+    "\\rightarrow{C}": {
+      "\\rightarrow{C}": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1679505131800
+        }
+      }
+    },
+    "Hypothese": {
+      "Hypothese": {
+        "currentFile": {
+          "count": 11,
+          "lastUpdated": 1679508156767
+        }
+      }
+    },
+    "A\\rightarrow{B}": {
+      "A\\rightarrow{B}": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1679508126784
+        }
+      }
+    },
+    "switches": {
+      "switches": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1680525047603
+        }
+      }
+    },
+    "datum": {
+      "datum": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679391900501
+        }
+      }
+    },
+    "Transparant": {
+      "Transparant": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679392344312
+        }
+      }
+    },
+    "MITM": {
+      "MITM": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679393097259
+        }
+      }
+    },
+    "\\rightarrow": {
+      "\\rightarrow": {
+        "currentFile": {
+          "count": 28,
+          "lastUpdated": 1680686015149
+        }
+      }
+    },
+    "\\exists{x}": {
+      "\\exists{x}": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1679497146559
+        }
+      }
+    },
+    "\\forall{x}": {
+      "\\forall{x}": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1680685626404
+        }
+      }
+    },
+    "predicaten": {
+      "predicaten": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679491325557
+        }
+      }
+    },
+    "generalisatie": {
+      "generalisatie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679496078947
+        }
+      }
+    },
+    "Universele": {
+      "Universele": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1679500542115
+        }
+      }
+    },
+    "Instantiatie": {
+      "Instantiatie": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1680685789574
+        }
+      }
+    },
+    "Existientiële": {
+      "Existientiële": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1679501156795
+        }
+      }
+    },
+    "Generalisatie": {
+      "Generalisatie": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1679501159724
+        }
+      }
+    },
+    "onderstaande": {
+      "onderstaande": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679498778230
+        }
+      }
+    },
+    "redeneerschema": {
+      "redeneerschema": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679498780790
+        }
+      }
+    },
+    "\\color{red}{\\rightarrow}": {
+      "\\color{red}{\\rightarrow}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679499820115
+        }
+      }
+    },
+    "\\exists{y}": {
+      "\\exists{y}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679501351805
+        }
+      }
+    },
+    "Implicatie": {
+      "Implicatie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679506569428
+        }
+      }
+    },
+    "Implicatievervaning": {
+      "Implicatievervaning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679506578909
+        }
+      }
+    },
+    "\\neg{B}": {
+      "\\neg{B}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679508077393
+        }
+      }
+    },
+    "\\neg{A}": {
+      "\\neg{A}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679507994918
+        }
+      }
+    },
+    "\\neg{A}\\land": {
+      "\\neg{A}\\land": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679506760444
+        }
+      }
+    },
+    "Simplificatie": {
+      "Simplificatie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679507865978
+        }
+      }
+    },
+    "A\\rightarrow": {
+      "A\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679508167136
+        }
+      }
+    },
+    "vermenigvuldigingen": {
+      "vermenigvuldigingen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679550634415
+        }
+      }
+    },
+    "mogelijke": {
+      "mogelijke": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679551005339
+        }
+      }
+    },
+    "onweerlegbaar": {
+      "onweerlegbaar": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679553295965
+        }
+      }
+    },
+    "Inleiding": {
+      "Inleiding": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679566311931
+        }
+      }
+    },
+    "color": {
+      "color": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679996441818
+        }
+      }
+    },
+    "Database": {
+      "Database": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679567986136
+        }
+      }
+    },
+    "prolog": {
+      "prolog": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679573819864
+        }
+      }
+    },
+    "Gedaana": {
+      "Gedaana": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679686728001
+        }
+      }
+    },
+    "Gedaan": {
+      "Gedaan": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679686744616
+        }
+      }
+    },
+    "destination": {
+      "destination": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1680552531016
+        }
+      }
+    },
+    "Standaard": {
+      "Standaard": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679993722167
+        }
+      }
+    },
+    "standaard": {
+      "standaard": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679993765273
+        }
+      }
+    },
+    "Extended": {
+      "Extended": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679993840101
+        }
+      }
+    },
+    "gebruikt": {
+      "gebruikt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679994371624
+        }
+      }
+    },
+    "Address": {
+      "Address": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679996453057
+        }
+      }
+    },
+    "Outside": {
+      "Outside": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679996516604
+        }
+      }
+    },
+    "dubbelzinnig": {
+      "dubbelzinnig": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680165264093
+        }
+      }
+    },
+    "krantenkoppen": {
+      "krantenkoppen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680165321041
+        }
+      }
+    },
+    "ambiguïteit": {
+      "ambiguïteit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680165398698
+        }
+      }
+    },
+    "preconditie": {
+      "preconditie": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680687904265
+        }
+      }
+    },
+    "Preconditie": {
+      "Preconditie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680166196713
+        }
+      }
+    },
+    "Tripple": {
+      "Tripple": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680166492981
+        }
+      }
+    },
+    "\\color{red}{": {
+      "\\color{red}{": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680167660794
+        }
+      }
+    },
+    "postconditie": {
+      "postconditie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680168086655
+        }
+      }
+    },
+    "Toilet": {
+      "Toilet": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680245992816
+        }
+      }
+    },
+    "broadcast": {
+      "broadcast": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680523184875
+        }
+      }
+    },
+    "Protocol": {
+      "Protocol": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680523784743
+        }
+      }
+    },
+    "STP-rames": {
+      "STP-rames": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680523815418
+        }
+      }
+    },
+    "ontvangen": {
+      "ontvangen": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680544454290
+        }
+      }
+    },
+    "belangrijker": {
+      "belangrijker": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680524350377
+        }
+      }
+    },
+    "geblokkeerd": {
+      "geblokkeerd": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680524608824
+        }
+      }
+    },
+    "root-BID": {
+      "root-BID": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680524944462
+        }
+      }
+    },
+    "BPDU": {
+      "BPDU": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1680525977222
+        }
+      }
+    },
+    "bridge": {
+      "bridge": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680525569462
+        }
+      }
+    },
+    "non-root": {
+      "non-root": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680525900469
+        }
+      }
+    },
+    "gekozen": {
+      "gekozen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680525228400
+        }
+      }
+    },
+    "wordt": {
+      "wordt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680525681710
+        }
+      }
+    },
+    "port-ID": {
+      "port-ID": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680525703638
+        }
+      }
+    },
+    "Designated": {
+      "Designated": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680525883595
+        }
+      }
+    },
+    "aangepast": {
+      "aangepast": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680553111568
+        }
+      }
+    },
+    "router": {
+      "router": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680526831675
+        }
+      }
+    },
+    "inter": {
+      "inter": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680529400902
+        }
+      }
+    },
+    "interface": {
+      "interface": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680529402550
+        }
+      }
+    },
+    "switch": {
+      "switch": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680530185735
+        }
+      }
+    },
+    "multi": {
+      "multi": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680530181374
+        }
+      }
+    },
+    "layer": {
+      "layer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680530183230
+        }
+      }
+    },
+    "netwerk": {
+      "netwerk": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680532184286
+        }
+      }
+    },
+    "revisienummer": {
+      "revisienummer": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680542090108
+        }
+      }
+    },
+    "Hierdoor": {
+      "Hierdoor": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680542120451
+        }
+      }
+    },
+    "pruning": {
+      "pruning": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680542305332
+        }
+      }
+    },
+    "verbinding": {
+      "verbinding": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680542228670
+        }
+      }
+    },
+    "modes": {
+      "modes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680542631611
+        }
+      }
+    },
+    "Modes": {
+      "Modes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680542710402
+        }
+      }
+    },
+    "creëren": {
+      "creëren": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680542727939
+        }
+      }
+    },
+    "verwijdert": {
+      "verwijdert": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680542732091
+        }
+      }
+    },
+    "verwijderen": {
+      "verwijderen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680542733995
+        }
+      }
+    },
+    "veranderen": {
+      "veranderen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680542740627
+        }
+      }
+    },
+    "geconfigureerd": {
+      "geconfigureerd": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680543929162
+        }
+      }
+    },
+    "adressen": {
+      "adressen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680544561429
+        }
+      }
+    },
+    "Collapsed": {
+      "Collapsed": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680544826914
+        }
+      }
+    },
+    "proprietary": {
+      "proprietary": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680545063689
+        }
+      }
+    },
+    "protocols": {
+      "protocols": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680552325555
+        }
+      }
+    },
+    "extended": {
+      "extended": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680813450776
+        }
+      }
+    },
+    "bandbreedte": {
+      "bandbreedte": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680552400527
+        }
+      }
+    },
+    "geweigerd": {
+      "geweigerd": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680553026759
+        }
+      }
+    },
+    "worden": {
+      "worden": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1680553563601
+        }
+      }
+    },
+    "intelligent": {
+      "intelligent": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680683786911
+        }
+      }
+    },
+    "intelligente": {
+      "intelligente": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680684424713
+        }
+      }
+    },
+    "\\exists": {
+      "\\exists": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1680686019743
+        }
+      }
+    },
+    "\\forall": {
+      "\\forall": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680686027874
+        }
+      }
+    },
+    "Configureer": {
+      "Configureer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680810891428
+        }
+      }
+    },
+    "Routing": {
+      "Routing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680811109405
+        }
+      }
+    },
+    "Routing-on-a-stick": {
+      "Routing-on-a-stick": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680811110587
+        }
+      }
+    },
+    "Geconfigureerd": {
+      "Geconfigureerd": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680811509147
+        }
+      }
+    },
+    "VLAN’s": {
+      "VLAN’s": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680813016579
+        }
+      }
+    },
+    "IP-adres": {
+      "IP-adres": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680814074134
+        }
+      }
+    },
+    "IP-adressen": {
+      "IP-adressen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680813444431
+        }
+      }
+    },
+    "\\overline{a}": {
+      "\\overline{a}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680900910099
+        }
+      }
+    },
+    "\\overline{b}": {
+      "\\overline{b}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681029621784
+        }
+      }
+    },
+    "simulatie": {
+      "simulatie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681416888314
+        }
+      }
+    },
+    "volgt": {
+      "volgt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681416891001
+        }
+      }
+    },
+    "cuircuit": {
+      "cuircuit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681416897505
+        }
+      }
+    },
+    "circuit": {
+      "circuit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681416901651
+        }
+      }
+    },
+    "buttonA": {
+      "buttonA": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681732949986
+        }
+      }
+    },
+    "buttonB": {
+      "buttonB": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681732954815
+        }
+      }
+    },
+    "buttonC": {
+      "buttonC": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681732957674
+        }
+      }
+    },
+    "nodig": {
+      "nodig": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681803108724
+        }
+      }
+    },
+    "double": {
+      "double": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681803887533
+        }
+      }
+    },
+    "Aantekeningen": {
+      "Aantekeningen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681804669664
+        }
+      }
+    }
+  }
+}
