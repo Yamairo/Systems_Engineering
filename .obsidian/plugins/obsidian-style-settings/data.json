@@ -2,7 +2,7 @@
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-custom-dt",
   "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-red-dt",
   "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-accent-dt",
-  "wikipedia-theme@@theme-colors": "wiki-accent",
+  "wikipedia-theme@@theme-colors": "use-accent",
   "maple-plugin@@calendar-swap-year-month": false,
   "maple-basic@@color-use-custom": true,
   "maple-workspace@@titlebar-colorful": true,
@@ -17,5 +17,7 @@
   "shiba-theme-settings@@shiba-accent-colors": "accent-lemon",
   "shiba-theme-settings@@shiba-clutter-free-headings": true,
   "shiba-theme-settings@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-lofi4",
-  "shiba-theme-settings@@shib-custom-bg-brightness-dark": 0.3
+  "shiba-theme-settings@@shib-custom-bg-brightness-dark": 0.3,
+  "wikipedia-theme@@blockquote-settings": "blockquote-normal",
+  "wikipedia-theme@@info-frontmatter": false
 }

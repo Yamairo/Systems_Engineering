@@ -95,75 +95,11 @@
         }
       }
     },
-    "machtsverheffen": {
-      "machtsverheffen": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679551345729
-        }
-      }
-    },
-    "Opdracht": {
-      "Opdracht": {
-        "currentFile": {
-          "count": 6,
-          "lastUpdated": 1679551778666
-        }
-      }
-    },
-    "\\rightarrow{C}": {
-      "\\rightarrow{C}": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1679505131800
-        }
-      }
-    },
-    "Hypothese": {
-      "Hypothese": {
-        "currentFile": {
-          "count": 11,
-          "lastUpdated": 1679508156767
-        }
-      }
-    },
-    "A\\rightarrow{B}": {
-      "A\\rightarrow{B}": {
-        "currentFile": {
-          "count": 6,
-          "lastUpdated": 1679508126784
-        }
-      }
-    },
     "switches": {
       "switches": {
         "currentFile": {
           "count": 5,
           "lastUpdated": 1680525047603
-        }
-      }
-    },
-    "datum": {
-      "datum": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679391900501
-        }
-      }
-    },
-    "Transparant": {
-      "Transparant": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679392344312
-        }
-      }
-    },
-    "MITM": {
-      "MITM": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679393097259
         }
       }
     },
@@ -175,43 +111,11 @@
         }
       }
     },
-    "\\exists{x}": {
-      "\\exists{x}": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1679497146559
-        }
-      }
-    },
     "\\forall{x}": {
       "\\forall{x}": {
         "currentFile": {
           "count": 6,
           "lastUpdated": 1680685626404
-        }
-      }
-    },
-    "predicaten": {
-      "predicaten": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679491325557
-        }
-      }
-    },
-    "generalisatie": {
-      "generalisatie": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679496078947
-        }
-      }
-    },
-    "Universele": {
-      "Universele": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1679500542115
         }
       }
     },
@@ -223,179 +127,11 @@
         }
       }
     },
-    "Existientiële": {
-      "Existientiële": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679501156795
-        }
-      }
-    },
-    "Generalisatie": {
-      "Generalisatie": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679501159724
-        }
-      }
-    },
-    "onderstaande": {
-      "onderstaande": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679498778230
-        }
-      }
-    },
-    "redeneerschema": {
-      "redeneerschema": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679498780790
-        }
-      }
-    },
-    "\\color{red}{\\rightarrow}": {
-      "\\color{red}{\\rightarrow}": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679499820115
-        }
-      }
-    },
-    "\\exists{y}": {
-      "\\exists{y}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679501351805
-        }
-      }
-    },
-    "Implicatie": {
-      "Implicatie": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679506569428
-        }
-      }
-    },
-    "Implicatievervaning": {
-      "Implicatievervaning": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679506578909
-        }
-      }
-    },
-    "\\neg{B}": {
-      "\\neg{B}": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679508077393
-        }
-      }
-    },
-    "\\neg{A}": {
-      "\\neg{A}": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679507994918
-        }
-      }
-    },
-    "\\neg{A}\\land": {
-      "\\neg{A}\\land": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679506760444
-        }
-      }
-    },
-    "Simplificatie": {
-      "Simplificatie": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679507865978
-        }
-      }
-    },
-    "A\\rightarrow": {
-      "A\\rightarrow": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679508167136
-        }
-      }
-    },
-    "vermenigvuldigingen": {
-      "vermenigvuldigingen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679550634415
-        }
-      }
-    },
-    "mogelijke": {
-      "mogelijke": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679551005339
-        }
-      }
-    },
-    "onweerlegbaar": {
-      "onweerlegbaar": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679553295965
-        }
-      }
-    },
-    "Inleiding": {
-      "Inleiding": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679566311931
-        }
-      }
-    },
     "color": {
       "color": {
         "currentFile": {
           "count": 2,
           "lastUpdated": 1679996441818
-        }
-      }
-    },
-    "Database": {
-      "Database": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679567986136
-        }
-      }
-    },
-    "prolog": {
-      "prolog": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679573819864
-        }
-      }
-    },
-    "Gedaana": {
-      "Gedaana": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679686728001
-        }
-      }
-    },
-    "Gedaan": {
-      "Gedaan": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679686744616
         }
       }
     },
@@ -1036,6 +772,62 @@
         "currentFile": {
           "count": 2,
           "lastUpdated": 1681805154896
+        }
+      }
+    },
+    "routeplanner": {
+      "routeplanner": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682326347212
+        }
+      }
+    },
+    "ingedrukt": {
+      "ingedrukt": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682326640224
+        }
+      }
+    },
+    "bankrekening": {
+      "bankrekening": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682326648369
+        }
+      }
+    },
+    "display": {
+      "display": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682336318421
+        }
+      }
+    },
+    "public": {
+      "public": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682337638206
+        }
+      }
+    },
+    "private": {
+      "private": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682337641395
+        }
+      }
+    },
+    "staan": {
+      "staan": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682338283796
         }
       }
     }

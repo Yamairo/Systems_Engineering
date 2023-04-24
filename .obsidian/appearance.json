@@ -1,9 +1,9 @@
 {
   "accentColor": "#af0d15",
-  "baseFontSize": 10,
-  "cssTheme": "Discordian",
+  "baseFontSize": 13,
+  "cssTheme": "Maple",
   "enabledCssSnippets": [
     "bullet points"
   ],
-  "theme": "obsidian"
+  "theme": "moonstone"
 }
