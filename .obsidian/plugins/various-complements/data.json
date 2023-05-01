@@ -127,14 +127,6 @@
         }
       }
     },
-    "color": {
-      "color": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679996441818
-        }
-      }
-    },
     "destination": {
       "destination": {
         "currentFile": {
@@ -143,123 +135,11 @@
         }
       }
     },
-    "Standaard": {
-      "Standaard": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679993722167
-        }
-      }
-    },
-    "standaard": {
-      "standaard": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679993765273
-        }
-      }
-    },
-    "Extended": {
-      "Extended": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679993840101
-        }
-      }
-    },
-    "gebruikt": {
-      "gebruikt": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679994371624
-        }
-      }
-    },
-    "Address": {
-      "Address": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679996453057
-        }
-      }
-    },
-    "Outside": {
-      "Outside": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679996516604
-        }
-      }
-    },
-    "dubbelzinnig": {
-      "dubbelzinnig": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680165264093
-        }
-      }
-    },
-    "krantenkoppen": {
-      "krantenkoppen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680165321041
-        }
-      }
-    },
-    "ambiguïteit": {
-      "ambiguïteit": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680165398698
-        }
-      }
-    },
     "preconditie": {
       "preconditie": {
         "currentFile": {
           "count": 2,
           "lastUpdated": 1680687904265
-        }
-      }
-    },
-    "Preconditie": {
-      "Preconditie": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680166196713
-        }
-      }
-    },
-    "Tripple": {
-      "Tripple": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680166492981
-        }
-      }
-    },
-    "\\color{red}{": {
-      "\\color{red}{": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680167660794
-        }
-      }
-    },
-    "postconditie": {
-      "postconditie": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680168086655
-        }
-      }
-    },
-    "Toilet": {
-      "Toilet": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680245992816
         }
       }
     },
@@ -828,6 +708,54 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1682338283796
+        }
+      }
+    },
+    "Overview": {
+      "Overview": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682405390221
+        }
+      }
+    },
+    "Motor_B2": {
+      "Motor_B2": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682405776124
+        }
+      }
+    },
+    "Button1": {
+      "Button1": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682406518712
+        }
+      }
+    },
+    "Statement": {
+      "Statement": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682406526410
+        }
+      }
+    },
+    "WHILE": {
+      "WHILE": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682406530569
+        }
+      }
+    },
+    "encapsulation": {
+      "encapsulation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682929946790
         }
       }
     }

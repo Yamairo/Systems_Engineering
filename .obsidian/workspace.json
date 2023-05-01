@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practica/Object-georiënteerd Modelleren Practicum/Week 2.md",
+                "file": "Aantekeningen/Object Oriented Programming/Week 3.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practica/Object-georiënteerd Modelleren Practicum/Week 2.md",
+                "file": "Aantekeningen/Object Oriented Programming/Week 3.md",
                 "mode": "preview",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practica/Object-georiënteerd Modelleren Practicum/Week 2.md",
+                "file": "Aantekeningen/Object Oriented Programming/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practica/Object-georiënteerd Modelleren Practicum/Week 2.md",
+                "file": "Aantekeningen/Object Oriented Programming/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practica/Object-georiënteerd Modelleren Practicum/Week 2.md"
+                "file": "Aantekeningen/Object Oriented Programming/Week 3.md"
               }
             }
           },
@@ -183,14 +183,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3ba3606ef9a9a03d",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,15 +214,18 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "b2eee71d068a9956",
+  "active": "956822fdc06c4c80",
   "lastOpenFiles": [
+    "light.md",
+    "Aantekeningen/Object Oriented Programming/Week 3.md",
+    "Aantekeningen/Industrial Automation/Week 2.md",
+    "Aantekeningen/Industrial Automation/Week 1.md",
+    "Practica/Object-georiënteerd Modelleren Practicum/Week 2.md",
     "Practica/Object-georiënteerd Modelleren Practicum/Week 1.md",
     "Aantekeningen/Prof Skills/Week 1.md",
     "2023-04-24.md",
-    "Practica/Object-georiënteerd Modelleren Practicum/Week 2.md",
     "Aantekeningen/Modelleren/Week 2.md",
     "Aantekeningen/Object Oriented Programming/Week 1.md",
-    "Aantekeningen/Industrial Automation/Week 1.md",
     "Aantekeningen/Modelleren",
     "Aantekeningen/Object Oriented Programming",
     "README.md",
@@ -252,9 +262,6 @@
     "Proffesional skills/pdf/Pasted image 20230403222318.png",
     "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 6.md",
     "Routing & Switching Aantekeningen/Routing & Switching Aantekening Week 3.md",
-    "root-path-cost.md",
-    "Routing & Switching Aantekeningen/Routing & Switching week 4.md",
-    "Routing & Switching Practicum/Routing and switching practicum 2.md",
     "Routing switching 5.canvas",
     "hash.canvas",
     "Routing switching server.canvas",
