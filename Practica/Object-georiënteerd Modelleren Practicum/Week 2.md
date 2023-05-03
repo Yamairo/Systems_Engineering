@@ -44,7 +44,7 @@ classDiagram
         +int snelheid
         +void setSnelheid(int snelheid)
     }
-    class Stuurinrichting {
+    class Kompas {
         +int richting
         +void setRichting(int richting)
     }
@@ -56,12 +56,12 @@ classDiagram
         +int differentieerLijnen()
     }
 
-    ZumoRobot "1" *-- "1" Beweging : heeft
-    ZumoRobot "1" *-- "1" Omgevingssensor : heeft
-    Beweging "1" *-- "1" Motor : heeft
-    Beweging "1" *-- "1" Stuurinrichting : heeft
-    Omgevingssensor "1" *-- "1" ObjectSensor : heeft
-    Omgevingssensor "1" *-- "1" LijnSensor : heeft
+    ZumoRobot --> Beweging : heeft
+    ZumoRobot --> Omgevingssensor : heeft
+    Beweging --> Motor : heeft
+    Beweging --> Kompas : heeft
+    Omgevingssensor --> ObjectSensor : heeft
+    Omgevingssensor --> LijnSensor : heeft
 ```
 
 

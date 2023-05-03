@@ -758,6 +758,182 @@
           "lastUpdated": 1682929946790
         }
       }
+    },
+    "Professor": {
+      "Professor": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1682932651205
+        }
+      }
+    },
+    "Attributen": {
+      "Attributen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682932175056
+        }
+      }
+    },
+    "Student": {
+      "Student": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682932383106
+        }
+      }
+    },
+    "professor": {
+      "professor": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682932503167
+        }
+      }
+    },
+    "Arduino": {
+      "Arduino": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682933617707
+        }
+      }
+    },
+    "class": {
+      "class": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682933279332
+        }
+      }
+    },
+    "Class": {
+      "Class": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682933340935
+        }
+      }
+    },
+    "Arduino_Bord": {
+      "Arduino_Bord": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682933885858
+        }
+      }
+    },
+    "Arduino_Uno": {
+      "Arduino_Uno": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682933546385
+        }
+      }
+    },
+    "Arduino_bord": {
+      "Arduino_bord": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682933669432
+        }
+      }
+    },
+    "inheritance": {
+      "inheritance": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682934098472
+        }
+      }
+    },
+    "counters": {
+      "counters": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683011544092
+        }
+      }
+    },
+    "Sys_running": {
+      "Sys_running": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683011444388
+        }
+      }
+    },
+    "Normalisation": {
+      "Normalisation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683012719026
+        }
+      }
+    },
+    "prioriteit": {
+      "prioriteit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683013723219
+        }
+      }
+    },
+    "RESET": {
+      "RESET": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683013736008
+        }
+      }
+    },
+    "overerving": {
+      "overerving": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683104577693
+        }
+      }
+    },
+    "SintBernard": {
+      "SintBernard": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1683106967817
+        }
+      }
+    },
+    "functie": {
+      "functie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683106981298
+        }
+      }
+    },
+    "doeJeWerk": {
+      "doeJeWerk": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683107173014
+        }
+      }
+    },
+    "Polymorfisme": {
+      "Polymorfisme": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683107498731
+        }
+      }
+    },
+    "Berna": {
+      "Berna": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683108007396
+        }
+      }
     }
   }
 }
