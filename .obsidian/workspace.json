@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "de8d1ab35df2f542",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9b9de137cacf71fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aantekeningen/Object Oriented Programming/Week 3.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "76632c032b114e03"
-          }
-        ]
-      },
-      {
         "id": "1633055230b9f8a2",
         "type": "tabs",
         "children": [
@@ -30,14 +11,42 @@
             "id": "d4e17e5d381bd038",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0678b109ee7b2db3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Aantekeningen/Object Oriented Programming/Week 3.md",
+                "file": "Aantekeningen/Industrial Automation/Week 6.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "3a0aaf1053132407"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "de57a80f01d42f69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4f5355e22bc4b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aantekeningen/Industrial Automation/Week 6.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "76632c032b114e03"
+            "group": "3a0aaf1053132407"
           }
         ]
       }
@@ -92,6 +101,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3559da57a9c8df72",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -114,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aantekeningen/Object Oriented Programming/Week 3.md",
+                "file": "Aantekeningen/Industrial Automation/Week 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aantekeningen/Object Oriented Programming/Week 3.md",
+                "file": "Aantekeningen/Industrial Automation/Week 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aantekeningen/Object Oriented Programming/Week 3.md"
+                "file": "Aantekeningen/Industrial Automation/Week 6.md"
               }
             }
           },
@@ -183,7 +200,7 @@
             }
           },
           {
-            "id": "c1a18b29aa099778",
+            "id": "a8b5695d58efeb39",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -191,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -213,15 +230,23 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "c1a18b29aa099778",
+  "active": "0678b109ee7b2db3",
   "lastOpenFiles": [
-    "Aantekeningen/Object Oriented Modelleren/Week 3.md",
     "Practica/Object-georiënteerd Modelleren Practicum/Week 3.md",
+    "Aantekeningen/Industrial Automation/Week 6.md",
+    "Aantekeningen/Object Oriented Modelleren/Week 6.md",
+    "Untitled.canvas",
+    "Practica/Object-georiënteerd Modelleren Practicum/Week 2.md",
     "Aantekeningen/Object Oriented Programming/Week 3.md",
+    "Aantekeningen/Object Oriented Programming/Week.md",
+    "Aantekeningen/Object Oriented Modelleren/Week 3.md",
+    "Aantekeningen/Object Oriented Programming/Week 4 1.md",
+    "TODO.md",
+    "Pasted image 20230508132945.png",
+    "test122.md",
+    "Aantekeningen/Industrial Automation/Week 3.md",
     "Aantekeningen/Object Oriented Modelleren",
     "Aantekeningen/Object Oriented Programming/Week 1.md",
-    "Practica/Object-georiënteerd Modelleren Practicum/Week 2.md",
-    "Aantekeningen/Industrial Automation/Week 3.md",
     "Pasted image 20230502092344.png",
     "Pasted image 20230502085215.png",
     "Practica/Object-georiënteerd Modelleren Practicum/Week 1.md",
@@ -254,13 +279,6 @@
     "Logic Aantekeningen/Logic Aantekeningen week 7.md",
     "Proffesional skills/pdf/Pasted image 20230409103819.png",
     "Logic Practicum/Logic E.md",
-    "Routing & Switching Practicum/Routing & Switching week 6.md",
-    "Logic Practicum/Logic Opdrachten week 1.md",
-    "Toetsen Samenvattingen/Network engineering Deel 3.md",
-    "Toetsen Samenvattingen/Network Engineering Deel 2.md",
-    "Cyber Practicum/Cyber Aantekeningen Week 5.md",
-    "STP.md",
-    "Proffesional skills/pdf/Pasted image 20230403222959.png",
     "Routing switching 5.canvas",
     "hash.canvas",
     "Routing switching server.canvas",

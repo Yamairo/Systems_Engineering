@@ -6,7 +6,7 @@
 
 We willen een wasmachine gaan modelleren. Als we een klassendiagram maken van de fysieke elementen van een wasmachine zouden we op deze eerste schets van een model uit kunnen komen:
 
-![de Wasmachine](https://brightspace.hhs.nl//content/enforced/18061-H-NSE-SE-22_2022_VT/wasmachine1.png?_&d2lSessionVal=RoX0TGMN2APPIDrnsP01DPrwP&ou=18061 "de Wasmachine")
+![[Pasted image 20230508132945.png]]
 
 fig 1. de wasmachine
 
@@ -19,7 +19,8 @@ Het model in figuur 1 geeft goed aan welke onderdelen in een wasmachine zitten, 
 ### opdracht 1
 
 Waar zit in figuur 1. de god-klasse??
-
+> Bij de was machine
+---
 We willen dus de verantwoordelijkheden beter verdelen over de verschillende klassen. Als we dat willen doen zullen we eerst moeten nadenken over wat die verantwoordelijkheden zijn, die een wasmachine heeft.  
 Als ik een eerste poging doe dan kom ik tot een volgende lijst:
 
@@ -30,14 +31,50 @@ Als ik een eerste poging doe dan kom ik tot een volgende lijst:
 
 Als je op basis hiervan een klassendiagram opstelt, kom je tot heel andere modellen dan figuur 1.
 
+---
+
 ### opdracht 2
 
 1.  Maak een klassendiagram op basis van de bulletlijst hierboven. Elke bullet word 1 klasse.
 2.  Kijk nu naar figuur 1 en vul je klassendiagram aan met de klassen die je in figuur 1 wel hebt, maar nog denkt te missen in je nieuwe klassendiagram.
 3.  Als je Wasmachine nu 4 wasprogramma’s heeft, hoe ziet dan een objectendiagram eruit?
 
+```mermaid
+classDiagram
+        class Tromel{
+            + was : char
+            + toeren : int
+            + toerentalInstellen() void
+            + trommelDraaien() void
+            + centrifugeren() void
+        }
+        class Wasmachine{
+            + waterAanvoer() void
+            + waterAfvoer() void
+            + water : bool
+        }
+        class Verwarmingselement{
+			+ temperatuur : int
+			+ vermogen : int
+			+ verwarmen(int) void
+        }
+        class Wasprogramma{
+			+ tijd : int
+			+ temperatuur : int
+			+ toeren : int
+			+ verwarmen() bool
+			+ leegpompen() bool
+			+ waterInlaten() bool\[]
+        }
+
+```
+
+---
+
 ### opdracht 3
 
 1.  Maak je diagram zo compleet mogelijk. Denk aan: attributen, operaties, visability, static operatoren, constructoren e.d.  
     Waarschijnlijk mis je nog veel informatie om hier een echt systeem van te maken, vandaar dat er in de opdracht ‘zo compleet mogelijk’ staat. Volgende week gaan we kijken naar sequentiediagrammen, en die gaan helpen het wat completer te maken.
 2.  Vertaal wat je nu hebt alvast naar c++ code.
+
+---

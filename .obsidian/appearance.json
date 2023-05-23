@@ -1,7 +1,7 @@
 {
   "accentColor": "#af0d15",
-  "baseFontSize": 12,
-  "cssTheme": "Wikipedia",
+  "baseFontSize": 11,
+  "cssTheme": "",
   "enabledCssSnippets": [
     "bullet points"
   ],

@@ -47,614 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "32768": {
-      "32768": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680524117338
-        }
-      }
-    },
-    "VLANs": {
-      "VLANs": {
-        "currentFile": {
-          "count": 10,
-          "lastUpdated": 1680540985566
-        }
-      }
-    },
-    "style": {
-      "style": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1680540790720
-        }
-      }
-    },
-    "MAC-adres": {
-      "MAC-adres": {
-        "currentFile": {
-          "count": 9,
-          "lastUpdated": 1680545767519
-        }
-      }
-    },
-    "root-path-cost": {
-      "root-path-cost": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1680525482826
-        }
-      }
-    },
-    "designated": {
-      "designated": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1680525926197
-        }
-      }
-    },
-    "switches": {
-      "switches": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1680525047603
-        }
-      }
-    },
-    "\\rightarrow": {
-      "\\rightarrow": {
-        "currentFile": {
-          "count": 28,
-          "lastUpdated": 1680686015149
-        }
-      }
-    },
-    "\\forall{x}": {
-      "\\forall{x}": {
-        "currentFile": {
-          "count": 6,
-          "lastUpdated": 1680685626404
-        }
-      }
-    },
-    "Instantiatie": {
-      "Instantiatie": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1680685789574
-        }
-      }
-    },
-    "destination": {
-      "destination": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1680552531016
-        }
-      }
-    },
-    "preconditie": {
-      "preconditie": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680687904265
-        }
-      }
-    },
-    "broadcast": {
-      "broadcast": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680523184875
-        }
-      }
-    },
-    "Protocol": {
-      "Protocol": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680523784743
-        }
-      }
-    },
-    "STP-rames": {
-      "STP-rames": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680523815418
-        }
-      }
-    },
-    "ontvangen": {
-      "ontvangen": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680544454290
-        }
-      }
-    },
-    "belangrijker": {
-      "belangrijker": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680524350377
-        }
-      }
-    },
-    "geblokkeerd": {
-      "geblokkeerd": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680524608824
-        }
-      }
-    },
-    "root-BID": {
-      "root-BID": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680524944462
-        }
-      }
-    },
-    "BPDU": {
-      "BPDU": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1680525977222
-        }
-      }
-    },
-    "bridge": {
-      "bridge": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680525569462
-        }
-      }
-    },
-    "non-root": {
-      "non-root": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680525900469
-        }
-      }
-    },
-    "gekozen": {
-      "gekozen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680525228400
-        }
-      }
-    },
-    "wordt": {
-      "wordt": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680525681710
-        }
-      }
-    },
-    "port-ID": {
-      "port-ID": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680525703638
-        }
-      }
-    },
-    "Designated": {
-      "Designated": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680525883595
-        }
-      }
-    },
-    "aangepast": {
-      "aangepast": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680553111568
-        }
-      }
-    },
-    "router": {
-      "router": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680526831675
-        }
-      }
-    },
-    "inter": {
-      "inter": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680529400902
-        }
-      }
-    },
-    "interface": {
-      "interface": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680529402550
-        }
-      }
-    },
-    "switch": {
-      "switch": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680530185735
-        }
-      }
-    },
-    "multi": {
-      "multi": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680530181374
-        }
-      }
-    },
-    "layer": {
-      "layer": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680530183230
-        }
-      }
-    },
-    "netwerk": {
-      "netwerk": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680532184286
-        }
-      }
-    },
-    "revisienummer": {
-      "revisienummer": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680542090108
-        }
-      }
-    },
-    "Hierdoor": {
-      "Hierdoor": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680542120451
-        }
-      }
-    },
-    "pruning": {
-      "pruning": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680542305332
-        }
-      }
-    },
-    "verbinding": {
-      "verbinding": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680542228670
-        }
-      }
-    },
-    "modes": {
-      "modes": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680542631611
-        }
-      }
-    },
-    "Modes": {
-      "Modes": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680542710402
-        }
-      }
-    },
-    "creëren": {
-      "creëren": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680542727939
-        }
-      }
-    },
-    "verwijdert": {
-      "verwijdert": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680542732091
-        }
-      }
-    },
-    "verwijderen": {
-      "verwijderen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680542733995
-        }
-      }
-    },
-    "veranderen": {
-      "veranderen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680542740627
-        }
-      }
-    },
-    "geconfigureerd": {
-      "geconfigureerd": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680543929162
-        }
-      }
-    },
-    "adressen": {
-      "adressen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680544561429
-        }
-      }
-    },
-    "Collapsed": {
-      "Collapsed": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680544826914
-        }
-      }
-    },
-    "proprietary": {
-      "proprietary": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680545063689
-        }
-      }
-    },
-    "protocols": {
-      "protocols": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680552325555
-        }
-      }
-    },
-    "extended": {
-      "extended": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680813450776
-        }
-      }
-    },
-    "bandbreedte": {
-      "bandbreedte": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680552400527
-        }
-      }
-    },
-    "geweigerd": {
-      "geweigerd": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680553026759
-        }
-      }
-    },
-    "worden": {
-      "worden": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1680553563601
-        }
-      }
-    },
-    "intelligent": {
-      "intelligent": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680683786911
-        }
-      }
-    },
-    "intelligente": {
-      "intelligente": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680684424713
-        }
-      }
-    },
-    "\\exists": {
-      "\\exists": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1680686019743
-        }
-      }
-    },
-    "\\forall": {
-      "\\forall": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680686027874
-        }
-      }
-    },
-    "Configureer": {
-      "Configureer": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680810891428
-        }
-      }
-    },
-    "Routing": {
-      "Routing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680811109405
-        }
-      }
-    },
-    "Routing-on-a-stick": {
-      "Routing-on-a-stick": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680811110587
-        }
-      }
-    },
-    "Geconfigureerd": {
-      "Geconfigureerd": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680811509147
-        }
-      }
-    },
-    "VLAN’s": {
-      "VLAN’s": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680813016579
-        }
-      }
-    },
-    "IP-adres": {
-      "IP-adres": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680814074134
-        }
-      }
-    },
-    "IP-adressen": {
-      "IP-adressen": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680813444431
-        }
-      }
-    },
-    "\\overline{a}": {
-      "\\overline{a}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680900910099
-        }
-      }
-    },
-    "\\overline{b}": {
-      "\\overline{b}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681029621784
-        }
-      }
-    },
-    "simulatie": {
-      "simulatie": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681416888314
-        }
-      }
-    },
-    "volgt": {
-      "volgt": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681416891001
-        }
-      }
-    },
-    "cuircuit": {
-      "cuircuit": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681416897505
-        }
-      }
-    },
-    "circuit": {
-      "circuit": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681416901651
-        }
-      }
-    },
-    "buttonA": {
-      "buttonA": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681732949986
-        }
-      }
-    },
-    "buttonB": {
-      "buttonB": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681732954815
-        }
-      }
-    },
-    "buttonC": {
-      "buttonC": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681732957674
-        }
-      }
-    },
-    "nodig": {
-      "nodig": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681803108724
-        }
-      }
-    },
-    "double": {
-      "double": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681803887533
-        }
-      }
-    },
-    "Aantekeningen": {
-      "Aantekeningen": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1681805154896
-        }
-      }
-    },
     "routeplanner": {
       "routeplanner": {
         "currentFile": {
@@ -932,6 +324,86 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1683108007396
+        }
+      }
+    },
+    "Accelerometer": {
+      "Accelerometer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683207363062
+        }
+      }
+    },
+    "+addCourse": {
+      "+addCourse": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683537559287
+        }
+      }
+    },
+    "RegistrationUI{": {
+      "RegistrationUI{": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683538005093
+        }
+      }
+    },
+    "RegistrationManager{": {
+      "RegistrationManager{": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1683538036203
+        }
+      }
+    },
+    "Wasprogramma": {
+      "Wasprogramma": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683546263856
+        }
+      }
+    },
+    "centrifugeren": {
+      "centrifugeren": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683547066449
+        }
+      }
+    },
+    "Week 2": {
+      "Week 2": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683547731062
+        }
+      }
+    },
+    "temperatuur": {
+      "temperatuur": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683548522367
+        }
+      }
+    },
+    "asynchrone": {
+      "asynchrone": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684744787154
+        }
+      }
+    },
+    "scenario": {
+      "scenario": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684745362829
         }
       }
     }

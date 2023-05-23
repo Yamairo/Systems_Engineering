@@ -2,7 +2,7 @@
 ```toc
 ```
 ---
-## Move
+## Move        
 ![[Pasted image 20230502085215.png]]
 
 ## ADD en SUB
